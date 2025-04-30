@@ -10,4 +10,20 @@
     <string name="pizzaAciklama">Et sever, pizzanla tanışmaya hazırlan !</string>
     <string name="fiyatYazi">174 ₺</string>
     <string name="buttonYazi">SEPETE EKLE</string>
+
+    <string name="welcome">Hos Geldiniz</string>
+    <string name="paraBirim">TL</string>
+    <string name="toplamBakiye">Toplam Bakiye</string>
+    <string name="kullanici">, Android Bootcamp</string>
+    <string name="qr">Qr İşlemleri</string>
+    <string name="paraTransferi">Para Transferi</string>
+    <string name="hesaplar">Hesaplarım</string>
+    <string name="sonIslemler">Son İşlemler</string>
+    <string name="islemleriGor">Tümünü Gör</string>
+    <string name="anaSayfa">Ana Sayfa</string>
+    <string name="gecmisIslemler">Geçmiş</string>
+    <string name="hesap">Hesap</string>
+    <string name="islem1">Mağaza --> 483,33</string>
+    <string name="islem2">Amazon Prime --> 49,99</string>
+    <string name="islem3">Kahve --> 129,99</string>
 </resources>

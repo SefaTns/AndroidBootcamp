@@ -6,4 +6,11 @@
     <color name="anaRenk">#CB2020</color>
     <color name="yaziRenk1">#FFFFFF</color>
     <color name="yaziRenk2">#636363</color>
+
+    <color name="toolBar">#003A62</color>
+    <color name="balanceBar">#25B8D9</color>
+    <color name="balance">#005CAB</color>
+    <color name="chips">#49A942</color>
+    <color name="toplamBakiye">#525252</color>
+    <color name="button">#003A62</color>
 </resources>

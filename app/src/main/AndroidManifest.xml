@@ -6,9 +6,9 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/app_icon1"
-        android:label="@string/app_name"
-        android:roundIcon="@mipmap/app_icon1_round"
+        android:icon="@mipmap/finance_icon"
+        android:label="Finance"
+        android:roundIcon="@mipmap/finance_icon"
         android:supportsRtl="true"
         android:theme="@style/Theme.BirinciDers"
         tools:targetApi="31">
